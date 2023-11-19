@@ -1,7 +1,2 @@
 ﻿  CharacterMovement.cpp
-  Endgame.cpp
-  FallingObjects.cpp
-  HighScoreScreen.cpp
-  Menu.cpp
-  Generating Code...
   newton.vcxproj -> D:\newton\Debug\newton.exe
